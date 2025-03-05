@@ -1,3 +1,3 @@
-# Demo
+# HTML Training
 
-Some description here
+Here is my HTML training project.
